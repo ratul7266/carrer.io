@@ -1,0 +1,251 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body{
+	min-height: 100vw;
+	background-image: linear-gradient(#E6E6FA , #B8E7FA);
+	
+}
+
+#title-header{
+	background-color: #ffffff;
+
+}
+#frist-container{
+	background-color: #E6EDF9;
+	border-radius: 16px;
+	margin-left: 95px;
+	margin-right: 95px;
+	margin-top: 100px;
+	margin-bottom: 80px;
+}
+#snd-btn{
+	margin-bottom: 40px;
+
+}
+#title-line{
+	display: flex;
+	text-align: center;
+	font-family: "Poppins", sans-serif;
+	font-weight: 800px;
+	font-size: 24px;
+	gap: 1150px;
+	margin-top: 0px;
+	margin-bottom: 24px;
+	width: 230px;
+	height: 111px;
+	margin-left: 80px;
+	margin-right: 80px;
+	justify-content: space-between;
+	padding-top: 24px;
+	
+}
+#title-line span{
+	color: #FFA500;
+}
+.btn{
+	color: #0D1321;
+	font-size: 20px;
+	font-weight: 190px ,30px;
+	background: linear-gradient(80deg,#FFA500 ,#FFD447);
+	color: #0d1321;  
+	font-family:"Poppins", sans-serif;
+	white-space: nowrap; 
+	padding: 24px, 17px ;   
+	font-size: 20px;      
+	border-radius: 10px;   
+	border: none;   
+	cursor: pointer;   
+	height: 60px; 
+	box-shadow: 10px;
+	box-shadow: black;
+    padding: 12px 24px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: box-shadow 0.3s ease;
+	font-weight: 500;
+}
+.btn:hover {
+	background: linear-gradient(80deg, #9557ff, #4a0165); /* Reverse gradient */
+	color: rgb(255, 255, 255); /* Change text color */
+	box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); /* Deeper shadow */
+}
+#main-frist-container{
+	text-align: center;
+	font-family: "Poppins", sans-serif;
+}
+#main-frist-container h1{
+	font-family:  "Poppins", sans-serif;
+	font-size: 48px;
+	padding-top: 0px;
+	height: 68px;
+
+}
+#frist-img{
+	padding-top: 40px;
+	padding-bottom: 0px;
+}
+#main-frist-container p{
+	font-size: 16px;
+	text-align: center;
+	color: #0D1321;
+	padding-bottom: 32px;
+	margin-top: 24px;
+}
+#frist-title-scd{
+	text-align: center;
+	font-family: "Poppins", sans-serif;
+}
+#frist-title-scd h1{
+	text-align: center;
+	font-family: "Poppins", sans-serif;
+	font-weight: bold;
+
+}
+#frist-title-scd p{
+	color: #0D1321;
+	margin-bottom: 48px;
+
+
+}
+#second-container{
+	font-family: "Poppins", sans-serif;
+	background-color: #B8E7FA;
+	border-radius: 10px;
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 10%;
+	background-color: #E6EDF9;
+	border-radius: 16px;
+	margin-top: 48px;
+	margin-bottom: 80px;
+
+}
+#second-container h2{
+	margin-bottom: 16px;
+	font-size: 24px;
+	color: #0D1321;
+	height: 36px;
+
+}
+#second-container p{
+	margin-bottom: 32px;
+	font-size: 16px;
+	color: #0D132170;
+	height: 26px;
+
+}
+#hard-bkgd{
+	background-color: white;
+	border-radius: 5px;
+	margin-left: 95px;
+	margin-right: 95px;
+	margin-top: 100px;
+	margin-bottom: 80px;
+}
+#third-container{
+	text-align: center;
+	font-family: "Poppins", sans-serif;
+	border-radius: 0px;
+	margin-left: 95px;
+	margin-right: 95px;
+
+}
+#main-third-container h1{
+	margin-top: 100px;
+	margin-bottom: 24px;
+	font-size: 32px;
+}
+#main-third-container p{
+	font-size: 18px;
+	margin-bottom: 48px;
+	color: #0D1321;
+	height: 26px;	
+	font-family: "Azeret Mono", monospace;
+}
+
+#main-last-container{
+	text-align: center;
+	font-family: "Poppins", sans-serif;
+}
+#main-last-container h2{
+	margin-bottom: 24px;
+	font-size: 32px;
+	font-weight: bold;
+	color: #0D1321;
+
+}
+#heading-text p{
+	margin-bottom: 48px;
+ 	color: #0D132170;
+	font-size: 16px;
+	height: 26PX;
+}
+.frist-container{
+	background-image: linear-gradient(#E6EDF9 , #9DE5FF);
+	font-family: "Poppins", sans-serif;
+	text-align: left;
+	width: 364px;
+	height: 244px;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 16px;
+	padding: 40px;
+	margin-bottom: 100px;
+	
+}
+.frist-container h3{
+	font-size: 22px;
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+.frist-container a{
+	color: #0D1321;
+	font-family: "Poppins", sans-serif;
+	font-weight: 600;
+}
+.shes-container{
+	display: flex;
+ 	justify-content: center;
+  	margin-top: 40px;
+	margin-bottom: 100px;
+	gap: auto;
+	flex-wrap: wrap;
+
+	
+
+}
+footer{
+	background-color: white;
+
+}
+#at-last-container{
+	font-family: "Azeret Mono", monospace;
+
+}
+#last-text-title{
+	display: flex;
+
+}
+#last-text-title h3{
+	margin-right: auto;
+	margin-left: 150px;
+	margin-top: 32px;
+	margin-bottom: 32px;
+	width: 446px;
+	height: 23px;
+	gap: 16px;
+}
+#last-text-title img{
+	margin-right: 95px;
+	height: fit-content;
+	width: fit-content;
+	margin-top: 32px;
+	margin-bottom: 32px;
+	gap: 24px;
+}
